@@ -1,0 +1,26 @@
+# Visual Studio Temporary and Build Files
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Compiler Outputs
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.exe
+*.log
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Application Backups
+*.bak
+imgui.ini
